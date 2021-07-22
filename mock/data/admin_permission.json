@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "message": "权限获取成功",
+  "data": [
+    {
+      "name": "wrap",
+      "children": [
+        {
+          "name": "学校",
+          "children": [
+            {
+              "name": "新增学校"
+            },
+            {
+              "name": "删除学校"
+            }
+          ]
+        },
+        {
+          "name": "班级",
+          "children": [
+            {
+              "name": "删除班级"
+            },
+            {
+              "name": "新增班级"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

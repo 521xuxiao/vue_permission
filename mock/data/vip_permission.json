@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "权限获取成功",
+  "data": [
+    {
+      "name": "wrap",
+      "children": [
+        {
+          "name": "学校",
+          "children": [
+            {
+              "name": "删除学校"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
